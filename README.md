@@ -31,3 +31,6 @@ function sendEmails() {
 2) Click Tools -> Script Editor
 3) Copy-paste the script there
 4) Click Send
+
+## How to contribute to this repo:
+If it doesn't work or if there's a bug, notify me by raising an issue in the Issues tab.
